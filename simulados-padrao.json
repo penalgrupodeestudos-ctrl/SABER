@@ -1,0 +1,84 @@
+{
+  "simulados": [
+    {
+      "id": 1,
+      "nome": "📚 Simulado Polícia Penal #1 - Geral",
+      "dataCriacao": "2025-11-01T21:00:00Z",
+      "questoes": [
+        {
+          "numero": 1,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Em: 'Se você apenas exportar commodities para a China, nunca conseguirá esse efeito positivo do emprego industrial na sociedade, dado que você não precisará de tanta mão de obra remunerada e de alta produtividade', conclui. Pode ser substituída, sem alteração de sentido, a expressão destacada no texto por:",
+          "opcoes": {
+            "A": "Ainda que",
+            "B": "Desde que",
+            "C": "Porquanto",
+            "D": "Apesar de que"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "A expressão 'dado que' estabelece uma relação de causa. 'Porquanto' também indica causalidade, sendo sinônimo adequado."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "📚 Simulado Direitos Humanos - Completo",
+      "dataCriacao": "2025-11-01T21:30:00Z",
+      "questoes": [
+        {
+          "numero": 1,
+          "disciplina": "Noções de Direitos Humanos",
+          "questao": "Analise as afirmativas a seguir sobre quais são consideradas características das normas relacionadas a Direitos Humanos: I. Historicidade. II. Irrenunciabilidade. III. Relatividade. IV. Imprescritibilidade. Marque a opção que apresenta as afirmativas CORRETAS.",
+          "opcoes": {
+            "A": "I – II",
+            "B": "I – II – III",
+            "C": "I – II – III – IV",
+            "D": "II – IV"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "As características dos direitos humanos incluem historicidade (evoluem historicamente), irrenunciabilidade (não podem ser renunciados), relatividade (podem sofrer limitações legítimas) e imprescritibilidade (não se extinguem pelo tempo)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "📚 Simulado IASES - Legislação",
+      "dataCriacao": "2025-11-01T22:00:00Z",
+      "questoes": [
+        {
+          "numero": 1,
+          "disciplina": "Direito Constitucional",
+          "questao": "Qual das afirmativas abaixo encontra-se entre os direitos e garantias fundamentais, segundo a Constituição Federal de 1988?",
+          "opcoes": {
+            "A": "Ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude da lei.",
+            "B": "A manifestação do pensamento é livre, sendo protegido o anonimato.",
+            "C": "É livre a expressão da atividade intelectual, artística, científica e de comunicação, observada a censura e, em alguns casos, a licença.",
+            "D": "É plena a liberdade de associação para fins lícitos, inclusive, a de caráter paramilitar."
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "Esta é uma garantia fundamental expressa na Constituição Federal de 1988, no artigo 5º."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "📚 Simulado Polícia Penal #2 - Avançado",
+      "dataCriacao": "2025-11-01T22:30:00Z",
+      "questoes": [
+        {
+          "numero": 1,
+          "disciplina": "Língua Portuguesa",
+          "questao": "A idade cronológica de uma pessoa nem sempre coincide com a sua idade biológica. Sintaticamente, é correto afirmar que, nesta frase:",
+          "opcoes": {
+            "A": "'biológica' é o termo que complementa o objeto direto, considerado adjunto adnominal.",
+            "B": "'a idade cronológica de uma pessoa' refere-se ao sujeito simples.",
+            "C": "'coincide' comporta-se como um verbo intransitivo, não apresentando complementos.",
+            "D": "o núcleo do sujeito é o termo 'pessoa', pois trata-se do vocábulo mais importante."
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "A expressão 'a idade cronológica de uma pessoa' funciona como sujeito simples da oração, sendo aquilo que não coincide com a idade biológica."
+        }
+      ]
+    }
+  ]
+}
