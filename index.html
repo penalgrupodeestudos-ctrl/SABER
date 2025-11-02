@@ -645,6 +645,16 @@
             text-align: center;
         }
 
+        .error-message {
+            background: rgba(239, 68, 68, 0.1);
+            border: 2px solid var(--danger);
+            color: var(--danger);
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1rem 0;
+            font-weight: 500;
+        }
+
         @media (max-width: 768px) {
             .container {
                 grid-template-columns: 1fr;
@@ -874,7 +884,7 @@
     </div>
 
     <script>
-        // ⭐ CONFIGURAÇÃO DO GITHUB - JÁ ESTÁ CONFIGURADO PARA VOCÊ!
+        // ⭐ CONFIGURAÇÃO DO GITHUB
         let GITHUB_USER = 'penalgrupodeestudos-ctrl';
         let GITHUB_REPO = 'SABER';
 
@@ -1095,37 +1105,62 @@
             mudarSecao('questoes');
         }
 
-        // ✅ CONVERTER SIMULADO
+        // ✅ CONVERTER SIMULADO - CORRIGIDO PARA ACEITAR QUALQUER JSON
         function converterSimulado() {
             try {
                 const nome = document.getElementById('nomeSimuladoConversor').value.trim();
                 const texto = document.getElementById('textoSimulado').value.trim();
 
                 if (!nome || !texto) {
-                    alert('❌ Preencha nome e simulado!');
+                    document.getElementById('resultadoConversao').innerHTML = '<div class="error-message">❌ Preencha nome e simulado!</div>';
                     return;
                 }
 
                 let questoes = [];
+                
+                // Tenta parsear o JSON com melhor tratamento de erros
                 try {
-                    const parsed = JSON.parse(texto);
-                    if (parsed.simulados && Array.isArray(parsed.simulados)) {
-                        questoes = parsed.simulados[0].questoes || [];
+                    let parsed = JSON.parse(texto);
+                    
+                    // Verifica todas as estruturas possíveis
+                    if (parsed.simulados && Array.isArray(parsed.simulados) && parsed.simulados.length > 0) {
+                        // Estrutura: { simulados: [...] }
+                        questoes = parsed.simulados[0].questoes || parsed.simulados[0];
                     } else if (Array.isArray(parsed)) {
+                        // Estrutura: [...]
                         questoes = parsed;
                     } else if (parsed.questoes && Array.isArray(parsed.questoes)) {
+                        // Estrutura: { questoes: [...] }
                         questoes = parsed.questoes;
+                    } else if (parsed.questions && Array.isArray(parsed.questions)) {
+                        // Estrutura alternativa: { questions: [...] }
+                        questoes = parsed.questions;
+                    } else if (parsed.items && Array.isArray(parsed.items)) {
+                        // Outra alternativa: { items: [...] }
+                        questoes = parsed.items;
                     }
-                } catch (e) {
-                    alert('❌ JSON inválido!');
+                    
+                    // Se ainda está vazio, tenta o primeiro valor do objeto
+                    if (questoes.length === 0) {
+                        for (let key in parsed) {
+                            if (Array.isArray(parsed[key]) && parsed[key].length > 0) {
+                                questoes = parsed[key];
+                                break;
+                            }
+                        }
+                    }
+                } catch (jsonError) {
+                    document.getElementById('resultadoConversao').innerHTML = '<div class="error-message">❌ JSON inválido! Verifique o formato.</div>';
                     return;
                 }
 
+                // Valida se encontrou questões
                 if (questoes.length === 0) {
-                    alert('❌ Nenhuma questão!');
+                    document.getElementById('resultadoConversao').innerHTML = '<div class="error-message">❌ Nenhuma questão encontrada! Verifique o JSON.</div>';
                     return;
                 }
 
+                // Cria o simulado
                 const simulado = {
                     id: Date.now(),
                     nome: nome,
@@ -1140,7 +1175,7 @@
                 jsonConvertidoAtual = json;
 
                 let html = `<div class="success-message">
-                    ✅ <strong>SIMULADO CONVERTIDO!</strong> ${questoes.length} questões
+                    ✅ <strong>SUCESSO!</strong> ${questoes.length} questões convertidas!
                 </div>`;
 
                 html += `<div class="step-guide">
@@ -1165,7 +1200,7 @@
                 atualizarEstatisticas();
 
             } catch (error) {
-                alert('❌ Erro: ' + error.message);
+                document.getElementById('resultadoConversao').innerHTML = '<div class="error-message">❌ Erro: ' + error.message + '</div>';
             }
         }
 
@@ -1212,31 +1247,69 @@
             URL.revokeObjectURL(url);
         }
 
+        // ✅ IMPORTAR SIMULADO - TAMBÉM CORRIGIDO
         function importarSimuladoJSON() {
             try {
                 const nome = document.getElementById('nomeSimuladoInput').value.trim();
                 const json = document.getElementById('jsonSimuladoInput').value.trim();
+                
                 if (!nome || !json) {
                     alert('❌ Preencha os campos!');
                     return;
                 }
-                const questoes = JSON.parse(json);
-                if (!Array.isArray(questoes)) throw new Error('Não é um array');
+                
+                let questoes = [];
+                try {
+                    let parsed = JSON.parse(json);
+                    
+                    // Tenta todas as estruturas
+                    if (Array.isArray(parsed)) {
+                        questoes = parsed;
+                    } else if (parsed.questoes && Array.isArray(parsed.questoes)) {
+                        questoes = parsed.questoes;
+                    } else if (parsed.questions && Array.isArray(parsed.questions)) {
+                        questoes = parsed.questions;
+                    } else if (parsed.items && Array.isArray(parsed.items)) {
+                        questoes = parsed.items;
+                    } else if (parsed.simulados && Array.isArray(parsed.simulados)) {
+                        questoes = parsed.simulados[0].questoes || parsed.simulados[0];
+                    } else {
+                        // Procura o primeiro array
+                        for (let key in parsed) {
+                            if (Array.isArray(parsed[key]) && parsed[key].length > 0) {
+                                questoes = parsed[key];
+                                break;
+                            }
+                        }
+                    }
+                } catch (e) {
+                    alert('❌ JSON inválido!');
+                    return;
+                }
+
+                if (!Array.isArray(questoes) || questoes.length === 0) {
+                    alert('❌ Nenhuma questão encontrada!');
+                    return;
+                }
+
                 const simulado = {
                     nome: nome,
                     questoes: questoes,
                     dataCriacao: new Date().toISOString(),
                     id: Date.now()
                 };
+                
                 SIMULADOS_JSON.push(simulado);
                 salvarDados();
                 atualizarEstatisticas();
+                
                 document.getElementById('nomeSimuladoInput').value = '';
                 document.getElementById('jsonSimuladoInput').value = '';
-                alert(`✅ Importado!`);
+                
+                alert(`✅ Simulado "${nome}" importado com ${questoes.length} questões!`);
                 mudarSecao('simulados');
             } catch (error) {
-                alert('❌ JSON inválido!');
+                alert('❌ Erro ao importar: ' + error.message);
             }
         }
 
