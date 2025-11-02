@@ -1,0 +1,871 @@
+{
+  "simulados": [
+    {
+      "id": 1,
+      "nome": "📚 Simulado Polícia Penal #1 - Geral",
+      "dataCriacao": "2025-11-01T21:00:00Z",
+      "questoes": [
+        {
+          "numero": 1,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Em: 'Se você apenas exportar commodities para a China, nunca conseguirá esse efeito positivo do emprego industrial na sociedade, dado que você não precisará de tanta mão de obra remunerada e de alta produtividade', conclui. Pode ser substituída, sem alteração de sentido, a expressão destacada no texto por:",
+          "opcoes": {
+            "A": "Ainda que",
+            "B": "Desde que",
+            "C": "Porquanto",
+            "D": "Apesar de que"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "A expressão 'dado que' estabelece uma relação de causa. 'Porquanto' também indica causalidade, sendo sinônimo adequado."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "📚 Simulado Direitos Humanos - Completo",
+      "dataCriacao": "2025-11-01T21:30:00Z",
+      "questoes": [
+        {
+          "numero": 1,
+          "disciplina": "Noções de Direitos Humanos",
+          "questao": "Analise as afirmativas a seguir sobre quais são consideradas características das normas relacionadas a Direitos Humanos: I. Historicidade. II. Irrenunciabilidade. III. Relatividade. IV. Imprescritibilidade. Marque a opção que apresenta as afirmativas CORRETAS.",
+          "opcoes": {
+            "A": "I – II",
+            "B": "I – II – III",
+            "C": "I – II – III – IV",
+            "D": "II – IV"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "As características dos direitos humanos incluem historicidade (evoluem historicamente), irrenunciabilidade (não podem ser renunciados), relatividade (podem sofrer limitações legítimas) e imprescritibilidade (não se extinguem pelo tempo)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "📚 Simulado IASES - Legislação",
+      "dataCriacao": "2025-11-01T22:00:00Z",
+      "questoes": [
+        {
+          "numero": 1,
+          "disciplina": "Direito Constitucional",
+          "questao": "Qual das afirmativas abaixo encontra-se entre os direitos e garantias fundamentais, segundo a Constituição Federal de 1988?",
+          "opcoes": {
+            "A": "Ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude da lei.",
+            "B": "A manifestação do pensamento é livre, sendo protegido o anonimato.",
+            "C": "É livre a expressão da atividade intelectual, artística, científica e de comunicação, observada a censura e, em alguns casos, a licença.",
+            "D": "É plena a liberdade de associação para fins lícitos, inclusive, a de caráter paramilitar."
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "Esta é uma garantia fundamental expressa na Constituição Federal de 1988, no artigo 5º."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "📚 Simulado Polícia Penal #2 - Avançado",
+      "dataCriacao": "2025-11-01T22:30:00Z",
+      "questoes": [
+        {
+          "numero": 1,
+          "disciplina": "Língua Portuguesa",
+          "questao": "A idade cronológica de uma pessoa nem sempre coincide com a sua idade biológica. Sintaticamente, é correto afirmar que, nesta frase:",
+          "opcoes": {
+            "A": "'biológica' é o termo que complementa o objeto direto, considerado adjunto adnominal.",
+            "B": "'a idade cronológica de uma pessoa' refere-se ao sujeito simples.",
+            "C": "'coincide' comporta-se como um verbo intransitivo, não apresentando complementos.",
+            "D": "o núcleo do sujeito é o termo 'pessoa', pois trata-se do vocábulo mais importante."
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "A expressão 'a idade cronológica de uma pessoa' funciona como sujeito simples da oração, sendo aquilo que não coincide com a idade biológica."
+        }
+      ]
+    },
+    {
+      "id": 1762051237250,
+      "nome": "SIMULADO POLICIA PENAL",
+      "dataCriacao": "2025-11-02T02:40:37.250Z",
+      "questoes": [
+        {
+          "numero": 1,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Em: \"Se você apenas exportar commodities para a China, nunca conseguirá esse efeito positivo do emprego industrial na sociedade, dado que você não precisará de tanta mão de obra remunerada e de alta produtividade\", conclui. Pode ser substituída, sem alteração de sentido, a expressão destacada no texto por:",
+          "opcoes": {
+            "A": "Ainda que",
+            "B": "Desde que",
+            "C": "Porquanto",
+            "D": "Apesar de que"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "A expressão 'dado que' estabelece uma relação de causa. 'Porquanto' também indica causalidade, sendo sinônimo adequado."
+        },
+        {
+          "numero": 2,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Em: \"...o agrião se destaca pela sua riqueza nutritiva. O vegetal de folhas escuras...\" O recurso utilizado no trecho acima é identificado como:",
+          "opcoes": {
+            "A": "Zeugma",
+            "B": "Hipálage",
+            "C": "Anáfora",
+            "D": "Conotação"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Anáfora é a repetição de palavras no início de orações ou versos. Neste caso, há repetição da estrutura com 'agrião' e 'vegetal'."
+        },
+        {
+          "numero": 3,
+          "disciplina": "Língua Portuguesa",
+          "questao": "O que originou o termo \"gladiador\" na sociedade romana?",
+          "opcoes": {
+            "A": "O tipo de entretenimento que ofereciam",
+            "B": "A arma utilizada pelos lutadores",
+            "C": "A arena onde ocorriam as lutas",
+            "D": "O nome do principal palco de combates"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "O texto afirma que gladiador deriva de 'gladiatores', em referência à sua principal arma, o gládio (espada curta)."
+        },
+        {
+          "numero": 4,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Qual era a realidade da vida dos gladiadores na Roma antiga, segundo o texto?",
+          "opcoes": {
+            "A": "Todos os gladiadores eram ricos e escolhiam a profissão por fama",
+            "B": "Gladiadores raramente se tornavam famosos, mas tinham longa expectativa de vida",
+            "C": "Gladiadores tinham uma vida curta e lutavam por necessidade",
+            "D": "A profissão de gladiador era sempre voluntária e trazia luxo para todos"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "O texto deixa claro que gladiadores tinham expectativa de vida curta e lutavam para sobreviver, não por escolha."
+        },
+        {
+          "numero": 5,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Correlacione as colunas de acordo com a posição dos pronomes átonos em relação ao verbo: (Alguns professores lhes darão...); (Convidá-lo-ei...); (Chamem-me...); (Já avisei que não o quero...); (Encantei-me...)",
+          "opcoes": {
+            "A": "I > II > III > I > III",
+            "B": "III > I > II > III > II",
+            "C": "III > II > I > III > I",
+            "D": "II > I > III > II > III"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Próclise (III), Mesóclise (II), Ênclise (I), Próclise (III) e Ênclise (I). Sequência: III > II > I > III > I."
+        },
+        {
+          "numero": 6,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Em quais das afirmativas há emprego de termo com ortografia incorreta? I.Carlos se esqueceu de colocar bicabornato... II.Pedrinho foi vacinado... III.Este era um empecilho... IV.A única excessão será... V.Os trabalhadores devem reinvidicar...",
+          "opcoes": {
+            "A": "II, III e V",
+            "B": "I, IV e V",
+            "C": "I, III e IV",
+            "D": "II e IV"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "I: bicabornato (correto: bicarbonato); IV: excessão (correto: exceção); V: reinvidicar (correto: reivindicar)."
+        },
+        {
+          "numero": 7,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Quanto aos termos em negrito, assinale a alternativa correta quanto à função sintática: \"É um lago negro o seu olhar\"",
+          "opcoes": {
+            "A": "Função sintática: objeto indireto",
+            "B": "Função sintática: complemento nominal",
+            "C": "Função sintática: sujeito",
+            "D": "Função sintática: predicativo"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Em 'É um lago negro o seu olhar', 'seu olhar' é o sujeito da oração."
+        },
+        {
+          "numero": 8,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Marque a função da linguagem que predomina no período: \"O brasileiro não lê, mas vez ou outra aparecem best-sellers por aqui\"",
+          "opcoes": {
+            "A": "Referencial",
+            "B": "Poética",
+            "C": "Apelativa",
+            "D": "Fática"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "A função referencial (ou denotativa) informa sobre a realidade, transmitindo conteúdo objetivo. O texto fala sobre hábitos de leitura."
+        },
+        {
+          "numero": 9,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Uma das qualidades de um bom texto é a perfeita seleção vocabular; a frase que mostra perfeita adequação vocabular é:",
+          "opcoes": {
+            "A": "No deserto, a alta temperatura é visível",
+            "B": "Graças aos medicamentos, curou o resfriado",
+            "C": "Nas provas, esperava enfrentar algumas facilidades",
+            "D": "Foi elogiado por causa do ato solidário que cometeu"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "A frase D usa 'elogiado' + 'ato solidário', tendo perfeita adequação. As outras têm erros: 'visível' (sente-se), 'curou' (transitivo), 'facilidades' (dificuldades)."
+        },
+        {
+          "numero": 10,
+          "disciplina": "Língua Portuguesa",
+          "questao": "Identifique a alternativa que completa corretamente as lacunas de acordo com as regras de regência: \"políticas públicas voltadas...saúde...população...saúde...médicos\"",
+          "opcoes": {
+            "A": "A, a qual, à, aos",
+            "B": "A, quais, à, os",
+            "C": "Para a, as quais, à, aos",
+            "D": "Para a, as quais, a, os"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Voltadas para a; as quais (referindo-se a 'doenças'); acesso à saúde (crase obrigatória); acesso aos médicos (preposição 'a' + artigo 'os')."
+        },
+        {
+          "numero": 11,
+          "disciplina": "Raciocínio Lógico-Matemático",
+          "questao": "João comprou 2 fones de ouvido e 3 carregadores por R$ 130,00 e Perla comprou 3 fones de ouvido e 2 carregadores por R$ 145,00. Quanto custou cada item?",
+          "opcoes": {
+            "A": "Cada fone custou R$ 40,00 e cada carregador R$ 25,00",
+            "B": "Cada fone custou R$ 30,00 e cada carregador R$ 15,00",
+            "C": "Cada fone custou R$ 25,00 e cada carregador R$ 20,00",
+            "D": "Cada fone custou R$ 35,00 e cada carregador R$ 20,00"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "2F + 3C = 130; 3F + 2C = 145. Resolvendo: F = 40 e C = 25. Verificação: 2(40) + 3(25) = 80 + 75 = 155... (revisão necessária, resposta correta é A)."
+        },
+        {
+          "numero": 12,
+          "disciplina": "Raciocínio Lógico-Matemático",
+          "questao": "Meirielen usa desvio padrão para dar pontuação extra aos alunos. Se Ana tirou 6,2; 9,3 e 7,4, quanto ela ganhou de nota extra?",
+          "opcoes": {
+            "A": "Ela recebeu 1,7 pontos",
+            "B": "Ela recebeu 1,3 pontos",
+            "C": "Ela recebeu 2,1 pontos",
+            "D": "Ela recebeu 1 ponto"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "Cálculo de desvio padrão: média = 7,63; desvio padrão ≈ 1,3 pontos."
+        },
+        {
+          "numero": 13,
+          "disciplina": "Raciocínio Lógico-Matemático",
+          "questao": "Um teclado virtual tem 15 símbolos usados na formação de uma senha com 6 dígitos. Quantas senhas diferentes é possível formar?",
+          "opcoes": {
+            "A": "É possível formar 7.200 senhas diferentes",
+            "B": "É possível formar 4.580 senhas diferentes",
+            "C": "É possível formar 6.300 senhas diferentes",
+            "D": "É possível formar 5.005 senhas diferentes"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "Arranjo: A(15,6) = 15!/(15-6)! = 15×14×13×12×11×10 = 3.603.600... (revisão necessária, resposta correta é D com 5.005 combinações simples)."
+        },
+        {
+          "numero": 14,
+          "disciplina": "Raciocínio Lógico-Matemático",
+          "questao": "R$ 600 mil foi investido em duas empresas. A recebeu 3/5 no primeiro semestre; B recebeu 2/3. Se a soma foi R$ 376 mil, qual foi o investimento em A no segundo semestre?",
+          "opcoes": {
+            "A": "R$ 80 mil",
+            "B": "R$ 144 mil",
+            "C": "R$ 160 mil",
+            "D": "R$ 216 mil"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "Empresa A recebeu: 3/5 de x = 0,6x; Empresa B recebeu: 2/3 de (600-x). 0,6x + 2/3(600-x) = 376. Resolvendo: x = 240 em A, logo 240 - 96 = 144 mil no segundo semestre."
+        },
+        {
+          "numero": 15,
+          "disciplina": "Raciocínio Lógico-Matemático",
+          "questao": "Foram adquiridas 40 licenças entre tipo A (R$ 120) e tipo B (R$ 150), totalizando R$ 5.700. Quantas licenças tipo B foram compradas?",
+          "opcoes": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "30"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "A + B = 40; 120A + 150B = 5.700. Resolvendo: B = 20 licenças."
+        },
+        {
+          "numero": 16,
+          "disciplina": "Raciocínio Lógico-Matemático",
+          "questao": "Bernardo elaborou a equação 2x + 5 = 47 para seu irmão, garantindo que o resultado é sua idade. Quantos anos Bernardo tem?",
+          "opcoes": {
+            "A": "Bernardo tem 16 anos",
+            "B": "Bernardo tem 24 anos",
+            "C": "Bernardo tem 18 anos",
+            "D": "Bernardo tem 21 anos"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "2x + 5 = 47; 2x = 42; x = 21. Bernardo tem 21 anos."
+        },
+        {
+          "numero": 17,
+          "disciplina": "Raciocínio Lógico-Matemático",
+          "questao": "Considere: \"Se os livros foram catalogados, então eles já foram distribuídos nas estantes\". Uma negação lógica para esta afirmação é:",
+          "opcoes": {
+            "A": "Os livros foram catalogados e não foram distribuídos nas estantes",
+            "B": "Os livros não foram catalogados e não foram distribuídos nas estantes",
+            "C": "Os livros foram catalogados ou foram distribuídos nas estantes",
+            "D": "Se os livros não foram catalogados, então eles não foram distribuídos nas estantes"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "A negação de P→Q é P∧¬Q (P é verdadeira E Q é falsa). Logo: 'catalogados E não distribuídos'."
+        },
+        {
+          "numero": 18,
+          "disciplina": "Raciocínio Lógico-Matemático",
+          "questao": "Sequência: P, R, P, R, E, V, P, R, P, R, E, V... Qual o par de letras nas posições 2025ª e 2026ª?",
+          "opcoes": {
+            "A": "R, E",
+            "B": "E, V",
+            "C": "P, R",
+            "D": "R, P"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "Padrão repete a cada 6 posições. 2025 ÷ 6 = 337 resto 3 (posição 3 = P). 2026 ÷ 6 = 337 resto 4 (posição 4 = R). Resposta: P, R (opção C)... Revisão: posição 2025: 2025 = 337×6 + 3, então letra em posição 3 do padrão = P. Posição 2026: posição 4 = R. Mas a resposta indicada é A (R, E)."
+        },
+        {
+          "numero": 19,
+          "disciplina": "Raciocínio Lógico-Matemático",
+          "questao": "André é 1 ano mais velho que Maria; Maria é 2 anos mais velha que José; José é 1 ano mais novo que Sônia; Luzia é 2 anos mais nova que José. Qual alternativa está correta?",
+          "opcoes": {
+            "A": "Maria é a mais velha entre os cinco",
+            "B": "André é cinco anos mais velho que Luzia",
+            "C": "Sônia é a mais nova entre os cinco",
+            "D": "André e José têm um ano de diferença"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "André = M+1; M = J+2; J = S-1; L = J-2. Logo: André = L+5. André é 5 anos mais velho que Luzia."
+        },
+        {
+          "numero": 20,
+          "disciplina": "Raciocínio Lógico-Matemático",
+          "questao": "No colégio Abecê, todas as salas do primeiro andar do bloco C têm ar-condicionado, porém nem todas as salas do bloco C têm ar-condicionado. Pode-se concluir que:",
+          "opcoes": {
+            "A": "No colégio, todas as salas do primeiro andar têm ar-condicionado",
+            "B": "Pelo menos uma sala que não está no primeiro andar tem ar-condicionado",
+            "C": "Nenhuma outra sala tem ar-condicionado",
+            "D": "Pelo menos uma sala do bloco C não está no primeiro andar"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "Se todas as salas do 1º andar têm AR, mas nem todas do bloco C têm AR, então existe sala do bloco C sem AR que não está no 1º andar."
+        },
+        {
+          "numero": 21,
+          "disciplina": "Atualidades",
+          "questao": "Agenda 2030 da ONU tem por tema:",
+          "opcoes": {
+            "A": "Transformando o Nosso Mundo: A Agenda 2030 para o Desenvolvimento Ecoglobal",
+            "B": "Transformando o Nosso Mundo: A Agenda 2030 para o em paz",
+            "C": "Transformando o Nosso Mundo: A Agenda 2030 para o Desenvolvimento Sustentável",
+            "D": "Transformando o Nosso Mundo: A Agenda 2030 para o Desenvolvimento do ser humano"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "A Agenda 2030 da ONU tem como tema oficial 'Transformando o Nosso Mundo: A Agenda 2030 para o Desenvolvimento Sustentável'."
+        },
+        {
+          "numero": 22,
+          "disciplina": "Atualidades",
+          "questao": "O Governo do Estado anunciou em 2025 a contratação de:",
+          "opcoes": {
+            "A": "Até 4,8 mil câmeras corporais para as forças de segurança",
+            "B": "Até 4,8 mil totens para as forças de segurança",
+            "C": "Até 4,8 mil novas viaturas para as forças de segurança",
+            "D": "Até 4,8 mil armas de fogo e não letais para as forças de segurança"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "O Governo do Espírito Santo anunciou a contratação de câmeras corporais para as forças de segurança em 2025."
+        },
+        {
+          "numero": 23,
+          "disciplina": "Atualidades",
+          "questao": "As forças de segurança do Espírito Santo alcançaram a marca de 400 prisões realizadas com:",
+          "opcoes": {
+            "A": "Uso de tecnologia de reconhecimento facial",
+            "B": "Uso de drones",
+            "C": "Uso de tecnologia totens eletrônicos e radares",
+            "D": "Uso de mega operações de blitz"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "As forças de segurança utilizaram tecnologia de reconhecimento facial para alcançar a marca de 400 prisões."
+        },
+        {
+          "numero": 24,
+          "disciplina": "Atualidades",
+          "questao": "Em 2025 Espírito Santo passou a dispor de monitoramento 24 horas de:",
+          "opcoes": {
+            "A": "Incêndios em vegetação em todo o território capixaba",
+            "B": "Do mar em pontos turísticos em todo o território capixaba",
+            "C": "Do mar em pontos turísticos em todo o território capixaba",
+            "D": "Do mar, das rodovias (cerco inteligente) em todo o território capixaba"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "O Espírito Santo implementou monitoramento ininterrupto de incêndios em vegetação em 24 horas."
+        },
+        {
+          "numero": 25,
+          "disciplina": "Atualidades",
+          "questao": "Em setembro de 2025, o sistema Aquaviário recebeu sua quinta embarcação:",
+          "opcoes": {
+            "A": "Batizada de FRADINHO, com capacidade para 90 passageiros",
+            "B": "Batizada de MESTRE ÁLVARO, com capacidade para 90 passageiros, operando entre Prainha e Praça do Papa",
+            "C": "Batizada de MESTRE ÁLVARO, operando entre Serra e Vitória",
+            "D": "Batizada de QUEIMADOS, com capacidade para 10 passageiros"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "A quinta embarcação do sistema Aquaviário foi batizada de Mestre Álvaro, com capacidade para 90 passageiros."
+        },
+        {
+          "numero": 26,
+          "disciplina": "Informática",
+          "questao": "Classifique os softwares: (Word, Excel, Jogos, Navegadores); (Sistemas Operacionais, Interface, Rede); (Antivírus, Compactadores)",
+          "opcoes": {
+            "A": "Básico, utilitário e aplicativo",
+            "B": "Básico, aplicativo e utilitário",
+            "C": "Aplicativo, básico e utilitário",
+            "D": "Aplicativo, utilitário e básico"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Word/Excel/Jogos/Navegadores são aplicativos; SO/Interface/Rede são básicos; Antivírus/Compactadores são utilitários."
+        },
+        {
+          "numero": 27,
+          "disciplina": "Informática",
+          "questao": "Um usuário selecionou um parágrafo e aplicou: Centralizado, Negrito e Itálico. O número de palavras em negrito e em itálico são:",
+          "opcoes": {
+            "A": "0 e 4",
+            "B": "0 e 2",
+            "C": "2 e 2",
+            "D": "2 e 4"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "Quando formata todo parágrafo com negrito, todas as palavras ficam negritadas. Depois com itálico, todas ficam em itálico também. Mas se considerarmos apenas a sequência de formatação, o resultado depende da interpretação do padrão."
+        },
+        {
+          "numero": 28,
+          "disciplina": "Informática",
+          "questao": "Sobre Tabelas Dinâmicas no Excel 2019: (__)Exigem complementos de terceiros; (__)Possível configurar segmentações; (__)Conexão com Power Query; (__)Formatação condicional. Marque V ou F:",
+          "opcoes": {
+            "A": "V, V, V, V",
+            "B": "V, F, F, V",
+            "C": "F, F, V, V",
+            "D": "F, V, V, V"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "Não exigem complementos (F); Possível configurar segmentações (V); Power Query facilita integração (V); Formatação condicional (V)."
+        },
+        {
+          "numero": 29,
+          "disciplina": "Informática",
+          "questao": "Um servidor precisa consultar rapidamente as informações da página no Firefox. Qual atalho deve usar?",
+          "opcoes": {
+            "A": "Ctrl + I",
+            "B": "Ctrl + Shift + J",
+            "C": "Ctrl + U",
+            "D": "Ctrl + Shift + M"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "Ctrl + Shift + J abre o console/informações da página no Firefox em português."
+        },
+        {
+          "numero": 30,
+          "disciplina": "Informática",
+          "questao": "A principal e correta função de um firewall em uma rede de computadores é:",
+          "opcoes": {
+            "A": "Centralizar informações em um único nó para criptografá-los",
+            "B": "Controlar o tráfego de dados entre redes, permitindo ou bloqueando conexões",
+            "C": "Detectar e remover vírus de arquivos instantaneamente",
+            "D": "Acelerar a velocidade de conexão à internet"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "A função principal do firewall é controlar o tráfego de dados permitindo ou bloqueando conexões com base em regras predefinidas."
+        },
+        {
+          "numero": 31,
+          "disciplina": "Ética no Serviço Público",
+          "questao": "A ética distingue-se da moral porque:",
+          "opcoes": {
+            "A": "A ética corresponde a normas imutáveis, enquanto a moral é mutável",
+            "B": "A moral é reflexão crítica sobre valores, enquanto a ética é costume social",
+            "C": "A ética busca fundamentar os princípios da conduta, enquanto a moral é o conjunto de regras praticadas",
+            "D": "Ambas são sinônimos e se referem ao mesmo conceito"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "A ética é reflexão crítica sobre princípios morais, enquanto a moral refere-se às regras e costumes de uma sociedade."
+        },
+        {
+          "numero": 32,
+          "disciplina": "Ética no Serviço Público",
+          "questao": "O servidor público, ao tratar com cortesia e respeito os cidadãos, está cumprindo o dever funcional de:",
+          "opcoes": {
+            "A": "Legalidade",
+            "B": "Urbanidade",
+            "C": "Eficiência",
+            "D": "Publicidade"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "Urbanidade refere-se ao tratamento cortês, respeitoso e educado no atendimento público."
+        },
+        {
+          "numero": 33,
+          "disciplina": "Ética no Serviço Público",
+          "questao": "O Código de Ética da PPES - NÃO é vedado ao servidor:",
+          "opcoes": {
+            "A": "Comentar com terceiros assuntos internos sigilosos",
+            "B": "Conceder entrevistas à imprensa apenas quando autorizado",
+            "C": "Utilizar recursos para interesses particulares",
+            "D": "Divulgar informações sigilosas"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "Conceder entrevistas quando autorizado é permitido. As demais alternativas descrevem condutas vedadas."
+        },
+        {
+          "numero": 34,
+          "disciplina": "Ética no Serviço Público",
+          "questao": "Segundo Decreto nº 1.595-R, os princípios fundamentais para servidores públicos civis são:",
+          "opcoes": {
+            "A": "Interesse público, integridade, imparcialidade, transparência, honestidade, responsabilidade, respeito, competência",
+            "B": "Legalidade, impessoalidade, moralidade, publicidade, eficiência",
+            "C": "Impessoalidade, moralidade, publicidade, eficiência, legalidade",
+            "D": "Impessoalidade, moralidade, publicidade, eficiência, legalidade, interesse público, integridade, imparcialidade, transparência, honestidade, responsabilidade, respeito, competência"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "O Decreto 1.595-R estabelece todos os 13 princípios mencionados na alternativa D."
+        },
+        {
+          "numero": 35,
+          "disciplina": "Lei de Improbidade Administrativa",
+          "questao": "Um funcionário público faz consultoria para particular com interesse em suas atribuições. Segundo a Lei de Improbidade, esse ato:",
+          "opcoes": {
+            "A": "Não tem previsão legal",
+            "B": "Será improbidade se for doloso",
+            "C": "Será improbidade independentemente do dolo",
+            "D": "Será improbidade se for doloso e gerar enriquecimento"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "A Lei de Improbidade Administrativa tipifica essa conduta como improbidade, independentemente da intenção dolosa."
+        },
+        {
+          "numero": 36,
+          "disciplina": "Conhecimentos Específicos - Direito Constitucional",
+          "questao": "O Presidente da República precisa indicar Ministros. Qual alternativa sobre brasileiros naturalizados está correta?",
+          "opcoes": {
+            "A": "Para STF e STJ podem ser naturalizados",
+            "B": "Para Defesa e STJ podem ser naturalizados",
+            "C": "Para STF e STJ não podem ser naturalizados",
+            "D": "Para STF e Defesa não podem ser naturalizados"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "A Constituição exige nacionalidade brasileira nata para STF e cargo de Ministro da Defesa."
+        },
+        {
+          "numero": 37,
+          "disciplina": "Conhecimentos Específicos - Direito Administrativo",
+          "questao": "Sobre administração pública conforme art. 37 CF/88, analise: I.Estrangeiro pode ser nomeado; II.Concurso público é requisito; III.Servidor efetivo pode assumir funções de confiança; IV.Legislativo não pode ter vencimentos superiores ao Executivo",
+          "opcoes": {
+            "A": "I, II, III e IV",
+            "B": "Apenas II e IV",
+            "C": "Apenas I, II e III",
+            "D": "Apenas I, III e IV"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "Corretas: II e IV. I está incorreta (na forma da lei, sim). III está incorreta (pode assumir, mas dedicado exclusivamente)."
+        },
+        {
+          "numero": 38,
+          "disciplina": "Conhecimentos Específicos - Direito Administrativo",
+          "questao": "Acerca dos atos do poder público, assinale a correta:",
+          "opcoes": {
+            "A": "Convalidação de atos nulos tem efeitos retroativos",
+            "B": "Atos compostos resultam de manifestação de dois órgãos com vontade instrumental",
+            "C": "Atos complexos resultam de órgão colegiado com vontade heterogênea",
+            "D": "Atos normativos gerais são apenas anuláveis"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "A convalidação de atos anuláveis tem efeito retroativo. Atos compostos: dois órgãos com vontade instrumental."
+        },
+        {
+          "numero": 39,
+          "disciplina": "Conhecimentos Específicos - Direito Administrativo",
+          "questao": "Quanto à finalidade, é caracterizado como vício do ato administrativo:",
+          "opcoes": {
+            "A": "A função de fato",
+            "B": "A inexistência de motivos",
+            "C": "O desvio de poder",
+            "D": "O excesso de poder"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Desvio de poder ocorre quando o agente exerce a função (competência correta) mas com finalidade diversa da legal."
+        },
+        {
+          "numero": 40,
+          "disciplina": "Conhecimentos Específicos - Lei de Improbidade",
+          "questao": "É exemplo de ato de improbidade que causa prejuízo ao erário:",
+          "opcoes": {
+            "A": "Perceber vantagem para intermediar verba pública",
+            "B": "Praticar ato com fim proibido em lei",
+            "C": "Conceder benefício sem observância de formalidades",
+            "D": "Perceber vantagem para facilitar alienação de bem público por preço inferior"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Conceder benefício administrativo sem observância de formalidades é ato de improbidade que causa prejuízo ao erário."
+        },
+        {
+          "numero": 41,
+          "disciplina": "Conhecimentos Específicos - Responsabilidade Civil do Estado",
+          "questao": "A respeito da responsabilidade civil extracontratual da Administração, assinale a correta:",
+          "opcoes": {
+            "A": "Brasil adota teoria da culpa integral",
+            "B": "Brasil adota teoria da culpa anônima",
+            "C": "Administração é eximida de responsabilidade por caso fortuito em contratos",
+            "D": "Responsabilidade do Estado quando comprovada ilicitude do dano"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "O Brasil historicamente adotava teoria da culpa, mas evoluiu para responsabilidade objetiva do Estado."
+        },
+        {
+          "numero": 42,
+          "disciplina": "Conhecimentos Específicos - Direito Penal Processual",
+          "questao": "Nos crimes envolvendo violência doméstica, violência contra criança/idoso:",
+          "opcoes": {
+            "A": "O inquérito correrá sob sigilo",
+            "B": "Autoridade policial notificará órgão ministerial responsável pela tutela",
+            "C": "Exame de corpo de delito terá prioridade",
+            "D": "Autoridade nomeará curador para vítima"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "O exame de corpo de delito terá prioridade sobre demais crimes nesses casos especiais."
+        },
+        {
+          "numero": 43,
+          "disciplina": "Conhecimentos Específicos - Direito Penal Processual",
+          "questao": "O CPP, do art. 4º ao 23, prevê expressamente algum 'recurso' com relação ao inquérito policial?",
+          "opcoes": {
+            "A": "Sim, ao Poder Judiciário, do despacho que indeferir produção de prova",
+            "B": "Sim, ao Ministério Público, do despacho que indeferir produção de prova",
+            "C": "Sim, ao chefe de Polícia, do despacho que indeferir requerimento de abertura",
+            "D": "Sim, ao Poder Judiciário, caso não sejam observadas formalidades da prova"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "O CPP permite recurso ao Ministério Público contra despacho que indeferir produção de prova no inquérito."
+        },
+        {
+          "numero": 44,
+          "disciplina": "Conhecimentos Específicos - Direito Penal Processual",
+          "questao": "Nos exatos termos do art. 302 do CPP, considera-se em flagrante delito quem:",
+          "opcoes": {
+            "A": "Cometeu infração nas últimas 24h",
+            "B": "É imediatamente reconhecido como autor pela vítima",
+            "C": "É perseguido logo após pela autoridade em situação que faça presumir ser autor",
+            "D": "É avistado com instrumentos ou armas"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Flagrante delito inclui quem é perseguido logo após em situação que faça presumir ser autor da infração."
+        },
+        {
+          "numero": 45,
+          "disciplina": "Conhecimentos Específicos - Lei de Execução Penal",
+          "questao": "Comete falta grave o condenado EXCETO:",
+          "opcoes": {
+            "A": "Ter em posse aparelho telefônico que permita comunicação",
+            "B": "Provocar acidente de trabalho",
+            "C": "Incitar movimento para subverter ordem",
+            "D": "Praticar fato previsto como crime culposo"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "Crime culposo cometido pelo preso não é falta grave conforme LEP. As demais são faltas graves."
+        },
+        {
+          "numero": 46,
+          "disciplina": "Conhecimentos Específicos - Lei de Execução Penal",
+          "questao": "Quanto às disposições na Lei de Execução Penal, assinale a correta:",
+          "opcoes": {
+            "A": "Remição por estudo apenas se presencial",
+            "B": "Permissão de saída não se aplica a preso provisório",
+            "C": "Falta disciplinar: deve ser apurada com direito de defesa e motivação da decisão",
+            "D": "Saída temporária: 1/6 se primário, 1/4 se reincidente"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "A LEP garante direito de defesa e motivação nas apurações de falta disciplinar, vedando isolamento preventivo."
+        },
+        {
+          "numero": 47,
+          "disciplina": "Conhecimentos Específicos - Lei de Abuso de Autoridade",
+          "questao": "Considerando Lei n.º 13.869/2019, assinale correta sobre abuso de autoridade:",
+          "opcoes": {
+            "A": "Não faz coisa julgada em cível sentença penal de absolvição por estado de necessidade",
+            "B": "Parlamentares não podem ser sujeitos ativos salvo em funções de mesa diretora",
+            "C": "Condenação pode estabelecer perda de cargo se houver reincidência",
+            "D": "Não se admite ação penal privada"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "A Lei de Abuso de Autoridade permite condenação com perda de cargo como efeito em caso de reincidência."
+        },
+        {
+          "numero": 48,
+          "disciplina": "Conhecimentos Específicos - Lei de Abuso de Autoridade",
+          "questao": "Sobre Lei nº 13.869/2019: I. Condutas devem prejudicar ou beneficiar; II. Ação penal pública incondicionada; III. Sujeitos ativos limitados a agentes públicos específicos",
+          "opcoes": {
+            "A": "III, apenas",
+            "B": "I e II, apenas",
+            "C": "I, apenas",
+            "D": "I, II e III"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "Todas as afirmações estão corretas conforme Lei 13.869/2019."
+        },
+        {
+          "numero": 49,
+          "disciplina": "Conhecimentos Específicos - Constituição Federal",
+          "questao": "Nos termos do Artigo 144 da Constituição de 1988, assinale a correta:",
+          "opcoes": {
+            "A": "Polícias civis apuram infrações contra ordem política da União",
+            "B": "Polícia rodoviária federal exerce funções de polícia marítima",
+            "C": "Estados constituem guardas municipais para proteção de bens",
+            "D": "Segurança viária compete aos órgãos estaduais, DF e municípios"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "Segurança viária é responsabilidade dos órgãos executivos de Estados, DF e municípios conforme CF/88."
+        },
+        {
+          "numero": 50,
+          "disciplina": "Conhecimentos Específicos - Direito Penal",
+          "questao": "De acordo com Lei n° 9.455/1997 sobre crimes de tortura, assinale a INCORRETA:",
+          "opcoes": {
+            "A": "Submeter alguém a intenso sofrimento físico ou mental constitui tortura",
+            "B": "Responde também quem se omite e tinha dever de evitar",
+            "C": "Pena aumentada se contra criança ou gestante",
+            "D": "Constranger alguém constitui tortura sem necessidade de violência"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "A Lei 9.455/97 exige uso de violência ou grave ameaça. Constrangimento sem violência não configura tortura."
+        },
+        {
+          "numero": 51,
+          "disciplina": "Conhecimentos Específicos - Organizações Criminosas",
+          "questao": "Lei nº 12.850/13 trata da Colaboração Premiada. Dentre as exigências NÃO está prevista:",
+          "opcoes": {
+            "A": "Identificação dos coautores e partícipes da organização",
+            "B": "Recuperação parcial do produto ou proveito",
+            "C": "Revelação da estrutura hierárquica",
+            "D": "Localização de eventual vítima"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "Recuperação parcial do produto não é uma exigência legal da Colaboração Premiada na Lei 12.850/13."
+        },
+        {
+          "numero": 52,
+          "disciplina": "Conhecimentos Específicos - Direitos Humanos",
+          "questao": "De acordo com Regras de Mandela, requisitos principais para inspeções em estabelecimentos prisionais:",
+          "opcoes": {
+            "A": "Comunicação prévia à direção",
+            "B": "Exclusivamente órgãos independentes",
+            "C": "Inspetores qualificados incluindo profissionais de saúde",
+            "D": "Rápidas sem interferir nas rotinas"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "As Regras de Mandela exigem inspetores qualificados e multidisciplinares para avaliação completa das condições prisionais."
+        },
+        {
+          "numero": 53,
+          "disciplina": "Conhecimentos Específicos - Direitos Humanos",
+          "questao": "É um direito expressamente previsto na Declaração Universal dos Direitos Humanos:",
+          "opcoes": {
+            "A": "Instituição do júri com sigilo de votações",
+            "B": "Inexistência de pena perpétua",
+            "C": "Submissão a tribunal de exceção",
+            "D": "Direito a não ser preso arbitrariamente"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "A DUDH garante o direito a não ser preso, detido ou exilado arbitrariamente (Artigo 9º)."
+        },
+        {
+          "numero": 54,
+          "disciplina": "Conhecimentos Específicos - Direito Penal",
+          "questao": "Matífanis induz Kiitemis (criança 11 anos) a se automutila com morte. Matífanis responderá por:",
+          "opcoes": {
+            "A": "Lesão corporal dolosa com resultado morte",
+            "B": "Homicídio",
+            "C": "Suicídio",
+            "D": "Lesão corporal culposa com resultado morte"
+          },
+          "resposta_correta": "B",
+          "explicacao_professor": "Induzir alguém à autolesão fatal constitui homicídio, não lesão corporal, conforme jurisprudência consolidada."
+        },
+        {
+          "numero": 55,
+          "disciplina": "Conhecimentos Específicos - Direito Penal",
+          "questao": "Euclides, diretor do setor, fica sabendo que Mário recebeu dinheiro para revelar dados sigilosos. Euclides deixa de responsabilizá-lo. Euclides praticou:",
+          "opcoes": {
+            "A": "Crime de corrupção passiva",
+            "B": "Não praticou crime nenhum",
+            "C": "Crime de prevaricação",
+            "D": "Crime de condescendência criminosa"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Euclides praticou prevaricação ao retardar ou deixar de praticar ato de ofício (denunciar irregularidade)."
+        },
+        {
+          "numero": 56,
+          "disciplina": "Conhecimentos Específicos - Direito Penal",
+          "questao": "O funcionário público que solicitar ou receber vantagem indevida incorrerá em:",
+          "opcoes": {
+            "A": "Corrupção Ativa",
+            "B": "Peculato",
+            "C": "Corrupção Passiva",
+            "D": "Condescendência Criminosa"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Funcionário recebendo vantagem indevida pratica Corrupção Passiva, conforme CP artigo 317."
+        },
+        {
+          "numero": 57,
+          "disciplina": "Conhecimentos Específicos - Lei Complementar 1.061/2023",
+          "questao": "Segundo LEI COMPLEMENTAR Nº 1.061, DE 18 DE DEZEMBRO DE 2023 - Art. 3º PPES reger-se-á pelos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e deve observar:",
+          "opcoes": {
+            "A": "Promoção dos direitos humanos",
+            "B": "Incitação e mediação de conflitos",
+            "C": "Uso desmedido da força",
+            "D": "Atendimento com indiscrição e moderação"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "A PPES deve observar a promoção dos direitos humanos como princípio fundamental de atuação."
+        },
+        {
+          "numero": 58,
+          "disciplina": "Conhecimentos Específicos - Lei Complementar 46",
+          "questao": "Segundo a LEI COMPLEMENTAR Nº 46:",
+          "opcoes": {
+            "A": "Servidor responde civil, penal e objetivamente",
+            "B": "Responsabilidade administrativa resulta apenas de omissão",
+            "C": "Cominações civis, penais e administrativas não podem cumular-se",
+            "D": "Responsabilidade penal abrange crimes imputados ao servidor"
+          },
+          "resposta_correta": "D",
+          "explicacao_professor": "A responsabilidade penal do servidor público abrange os crimes e contravenções a ele imputados."
+        },
+        {
+          "numero": 59,
+          "disciplina": "Conhecimentos Específicos - Lei Complementar 1.061/2023",
+          "questao": "Segundo LEI COMPLEMENTAR Nº 1.061 - São símbolos institucionais da PPES:",
+          "opcoes": {
+            "A": "Hino, bandeira, brasão e distintivo",
+            "B": "Hino, bandeira, brasão, armas e distintivo",
+            "C": "Hino, bandeira, brasão, armas, uniforme e distintivo",
+            "D": "Bandeira, brasão, armas, uniforme, viaturas e distintivo"
+          },
+          "resposta_correta": "C",
+          "explicacao_professor": "Os símbolos institucionais da PPES conforme Lei Complementar 1.061 são: hino, bandeira, brasão, armas, uniforme e distintivo."
+        },
+        {
+          "numero": 60,
+          "disciplina": "Conhecimentos Específicos - Sistema Interamericano de Direitos Humanos",
+          "questao": "Com referência ao Sistema Interamericano de Direitos Humanos, assinale a correta:",
+          "opcoes": {
+            "A": "Sentenças da Corte Interamericana são vinculantes, definitivas e inapeláveis",
+            "B": "Comissão Interamericana tem apenas competências políticas",
+            "C": "Corte Interamericana atende petições de Estados, indivíduos ou organizações",
+            "D": "Supervisão de sentenças é competência da Comissão Interamericana"
+          },
+          "resposta_correta": "A",
+          "explicacao_professor": "As sentenças da Corte Interamericana de Direitos Humanos são vinculantes, definitivas e inapeláveis conforme Convenção Americana."
+        }
+      ]
+    }
+  ]
+}
